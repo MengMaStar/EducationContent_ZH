@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "main.py",
-        "test.md"
+        "test.md",
+        "2.md"
     ],
     "testFiles": [
         "test.ts"
